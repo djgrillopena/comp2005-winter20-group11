@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=thirdPanel
+comment1.params=
+comment1.target=thirdPanel()
+comment2.params=
+comment2.target=javax.swing.JPanel\ getHolding3()
+comment3.params=
+comment3.target=javax.swing.JLabel\ getComplex()
+comment4.params=
+comment4.target=javax.swing.JLabel\ getSimple()
+comment5.params=
+comment5.target=javax.swing.JRadioButton\ getComplexBoard()
+comment6.params=
+comment6.target=javax.swing.JRadioButton\ getSimpleBoard()
+comment7.params=
+comment7.target=javax.swing.JButton\ getNext()
+comment8.params=
+comment8.target=javax.swing.JButton\ getPrevious()
+numComments=9
