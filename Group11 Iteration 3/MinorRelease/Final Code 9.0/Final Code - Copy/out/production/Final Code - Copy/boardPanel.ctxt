@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=boardPanel
+comment1.params=
+comment1.target=boardPanel()
+comment2.params=
+comment2.target=void\ makingGrid()
+comment3.params=
+comment3.target=javax.swing.JPanel\ getHolding5()
+comment4.params=
+comment4.target=javax.swing.JPanel\ getbidPanel()
+numComments=5
