@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Final Code - Copy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_Code___Copy_jar</output-path>
+    <root id="archive" name="Final Code - Copy.jar">
+      <element id="module-output" name="Group 11 Iteration4" />
+    </root>
+  </artifact>
+</component>
